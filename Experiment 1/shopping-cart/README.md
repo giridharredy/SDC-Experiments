@@ -1,5 +1,8 @@
 # Shopping Cart Web Application
 
+
+![Screenshot 2025-06-09 154952](https://github.com/user-attachments/assets/e786564f-a7d3-40b1-8faf-cab0d118770f)
+
 A responsive e-commerce website with user authentication and shopping cart functionality built using HTML5, CSS3 (Flexbox and Grid), and JavaScript.
 
 ## Features

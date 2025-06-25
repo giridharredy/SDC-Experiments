@@ -1,3 +1,7 @@
+
+
+
+![dd961144-fd36-4207-b2c2-739af13723bd](https://github.com/user-attachments/assets/9c993119-ef92-45b0-aac9-d0690b45e050)
 # Shopping Cart Application
 
 A simple shopping cart application that allows users to add items, view cart contents, and perform basic operations.
@@ -24,6 +28,7 @@ A simple shopping cart application that allows users to add items, view cart con
    python main.py
    ```
 
+
 ## Usage
 
 Once the program is running, you can:
@@ -43,3 +48,4 @@ If you encounter any issues:
 ## Note
 
 This application is designed to run in a terminal/command line interface. Ensure you have the necessary permissions to execute Python scripts in your environment.
+

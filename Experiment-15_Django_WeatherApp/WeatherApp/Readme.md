@@ -1,5 +1,7 @@
 Program 15 - Django Weather App
 
+![Screenshot 2025-06-12 203613](https://github.com/user-attachments/assets/f8a33617-ee1f-4878-bf1e-2b2fa81692e2)
+
 AIM
 To develop a weather application frontend using Django templating that displays current weather information along with a line chart showing past 5 days' temperature trends using Chart.js.
 

@@ -1,5 +1,7 @@
 # Responsive Shopping Cart Application
 
+![Screenshot 2025-06-09 154952](https://github.com/user-attachments/assets/8ed34bca-1d18-46b5-9ed0-7cb2f2e9fd7d)
+
 A modern, responsive shopping cart application built with Bootstrap 5, HTML5, and CSS3.
 
 ## Features

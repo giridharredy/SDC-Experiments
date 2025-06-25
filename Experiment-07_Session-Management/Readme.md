@@ -1,4 +1,5 @@
 PROGRAM 7 – Session Management in Shopping Cart Web Application
+![welcome](https://github.com/user-attachments/assets/ec9ff29f-eedd-45e0-a636-cca26c9f4802)
 
 AIM
 To implement session tracking in a shopping cart web application using HTTP Sessions in Java Servlets.

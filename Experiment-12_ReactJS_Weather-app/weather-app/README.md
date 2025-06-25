@@ -1,5 +1,8 @@
 PROGRAM 12 – React Weather Services
 
+![Screenshot 2025-06-12 203613](https://github.com/user-attachments/assets/effe6910-5b1d-4644-a3ed-640c8ecd1a82)
+
+
 AIM
 To develop a weather information web application using React that fetches current and historical weather data from OpenWeatherMap API and visualizes it using Chart.js.
 

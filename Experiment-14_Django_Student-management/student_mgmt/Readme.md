@@ -1,5 +1,10 @@
 Program 14 - Django Student Management
 
+
+![Home](https://github.com/user-attachments/assets/3084d3ac-25e9-4b5a-b2d9-d0cc27b6f9a8)
+
+
+
 AIM  
 To develop a student management system backend using Django, allowing users to register, login, and access information through a clean and basic Canvas-style UI.
 

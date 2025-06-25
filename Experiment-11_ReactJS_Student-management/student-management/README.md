@@ -1,5 +1,7 @@
 PROGRAM 11 – Student Management System with React.
 
+![19642d60-33dc-43cd-8646-0822d1941bb4](https://github.com/user-attachments/assets/061b4b7f-6471-4ee0-b159-51ee74780142)
+
 AIM
 To develop a student management system frontend using React, implementing navigation through registration, login, contact, and about pages using React Router.
 
